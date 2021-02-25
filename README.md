@@ -1,4 +1,4 @@
-# Covid 19 React
+# Covid_19_Tracker_in_React_JS
 
 > This tracker provides the number of confirmed cases, recovered cases and deaths from novel coronavirus by country, the trend in confirmed case, recovered cases and death counts by country, and a global map showing which countries have confirmed cases and deaths. This tracker will be updated regularly, as new data are released.
 
@@ -25,7 +25,7 @@ List of features ready
 Minor project: Completed
 
 ## Contact
-Kirti- Software Developer Engineer
+Kirti - Software Developer Engineer
 <br/>
 <br/>
 kchn497@gmail.com
